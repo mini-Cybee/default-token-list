@@ -3622,5 +3622,13 @@
     "symbol": "CERBY",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png"
+  },
+  {
+    "address": "0x9B812C65529eC7d20ab630235ae20fde022c8aD3",
+    "chainId": 1,
+    "name": "CybeeDAO",
+    "symbol": "CBD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9B812C65529eC7d20ab630235ae20fde022c8aD3/logo.png"
   }
 ]
